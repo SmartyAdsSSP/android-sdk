@@ -19,13 +19,13 @@ Video(Skippable/Vertical/Horizontal)
 
 Native
 
-## [Getting Started](https://github.com/smartyads/ads-android-sdk/wiki#getting-started)
+## [Getting Started](https://github.com/smartyadsssp/android-sdk/wiki#getting-started)
 
-## [Installation](https://github.com/smartyads/ads-android-sdk/wiki#installation)
+## [Installation](https://github.com/smartyadsssp/android-sdk/wiki#installation)
 
-## [Contact Us](https://github.com/smartyads/ads-android-sdk/wiki#contact-us)
+## [Contact Us](https://github.com/smartyadsssp/android-sdk/wiki#contact-us)
 
-## [Report an issue](https://github.com/smartyads/ads-android-sdk/issues)
+## [Report an issue](https://github.com/smartyadsssp/android-sdk/issues)
 
 
 
